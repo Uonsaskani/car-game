@@ -1,0 +1,9 @@
+{
+  "appId": "com.yunes.jadde",
+  "appName": "جاده",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
